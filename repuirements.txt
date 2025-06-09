@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pillow
+scikit-image
+lpips
+torch
+pandas
